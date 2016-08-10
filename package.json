@@ -6,7 +6,7 @@
   },
   "name": "ts-wrapper",
   "description": "Ultra lightweight timeStamp wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/estebanrfp/ts-wrapper"
@@ -16,6 +16,7 @@
   "scripts": {
     "test": "mocha test/"
   },
+  "tonicExampleFilename": "./test/example.js",
   "engines": {
     "node": "*"
   },
@@ -28,7 +29,7 @@
     "url": "https://github.com/estebanrfp/ts-wrapper/issues"
   },
   "homepage": "https://github.com/estebanrfp/ts-wrapper",
-  "_id": "ts-wrapper@0.1.0",
+  "_id": "ts-wrapper@0.1.1",
   "_shasum": "",
   "_from": "ts-wrapper@*",
   "_npmVersion": "1.4.9",
@@ -44,8 +45,8 @@
   ],
   "dist": {
     "shasum": "",
-    "tarball": "http://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.0.tgz"
+    "tarball": "http://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.1.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.0.tgz"
+  "_resolved": "https://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.1.tgz"
 }
