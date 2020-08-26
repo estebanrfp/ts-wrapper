@@ -6,7 +6,7 @@
   },
   "name": "ts-wrapper",
   "description": "Ultra lightweight timeStamp wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/estebanrfp/ts-wrapper"
@@ -54,5 +54,6 @@
     "tarball": "http://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.1.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.1.tgz"
+  "_resolved": "https://registry.npmjs.org/ts-wrapper/-/ts-wrapper-0.1.1.tgz",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
