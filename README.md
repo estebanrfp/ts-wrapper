@@ -1,12 +1,12 @@
-#ts-wrapper
+# ts-wrapper
 
 Ultra lightweight timeStamp wrapper by @estebanrfp [ts-wrapper](https://desarrolloactivo.com/articulos/ts-wrapper/).
 
-#install
+# install
 
     npm install ts-wrapper
 
-#usage
+# usage
 
 ````javascript
 var tswrapper = require('ts-wrapper');
